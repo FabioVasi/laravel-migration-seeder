@@ -2,14 +2,20 @@
 
 
 
+@section('title', 'Welcome')
+
+
+
 @section('content')
 
-    <section>
-        <div class="container">
-            <h1>Welcome</h1>
+    <section class="bg-secondary">
+        <div class="container text-center">
+            <h1 class="text-white">Welcome</h1>
             <div class="row">
                 <div class="col">
-                    <div class="card"></div>
+                    <div class="card shadow">
+
+                    </div>
                 </div>
             </div>
         </div>
