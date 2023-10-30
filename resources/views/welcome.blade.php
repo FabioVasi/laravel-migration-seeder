@@ -2,7 +2,7 @@
 
 
 
-@section('title', 'Welcome')
+@section('title', 'Welcome To The Trains Site')
 
 
 
