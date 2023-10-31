@@ -30,6 +30,7 @@
                     <p>No Train's run today</p>
                 @endforelse        
             </div>
+            
         </div>
     </section>
 
